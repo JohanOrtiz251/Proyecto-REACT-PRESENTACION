@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.51c14faf.css",
+    "main.js": "/static/js/main.9dc6cc61.js",
+    "static/media/Asus.png": "/static/media/Asus.374256bb49107348af43.png",
+    "static/media/DELL.png": "/static/media/DELL.0a226ad490fe56c39124.png",
+    "static/media/PREDATOR.png": "/static/media/PREDATOR.bd01b215690811f7cccd.png",
+    "static/media/THINKPAD.png": "/static/media/THINKPAD.69eda47beca4dde53a05.png",
+    "static/media/BOOK1.png": "/static/media/BOOK1.08ef3089e041ecd85dbe.png",
+    "static/media/PocoX5-1.jpg": "/static/media/PocoX5-1.826d701b7089b897790d.jpg",
+    "static/media/GRAM.png": "/static/media/GRAM.5eea573f9ef09f57becf.png",
+    "static/media/ENVY.png": "/static/media/ENVY.b634580efa2121b37103.png",
+    "static/media/BLADE.png": "/static/media/BLADE.430d3d4c1a69a0cd7e6c.png",
+    "static/media/MacBookPro.png": "/static/media/MacBookPro.10ccc1a6150e0ca1baf8.png",
+    "static/media/Surface1.png": "/static/media/Surface1.bdbd10c509741d24d1fb.png",
+    "static/media/PocoX5.jpg": "/static/media/PocoX5.35b4fcb9986c355fac14.jpg",
+    "index.html": "/index.html",
+    "main.51c14faf.css.map": "/static/css/main.51c14faf.css.map",
+    "main.9dc6cc61.js.map": "/static/js/main.9dc6cc61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51c14faf.css",
+    "static/js/main.9dc6cc61.js"
+  ]
+}
