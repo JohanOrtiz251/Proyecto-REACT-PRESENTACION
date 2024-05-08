@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nombres": "Johan Steven",
+    "apellidos": "Ortiz Bernal",
+    "email": "admin@example.com",
+    "password": "12345678",
+    "celular": "31212345678"
+  },
+  {
+    "id": 2,
+    "nombres": "Juan Camilo",
+    "apellidos": "Zamora Bernal",
+    "email": "Juan@example.com",
+    "password": "12345678",
+    "celular": "31212345678"
+  }
+]

@@ -1,0 +1,114 @@
+.card2 {
+  border: none; /* Elimina el borde */
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease-in-out;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #fff;
+}
+
+
+.card2.dark {
+  background-color: #0f131a;
+  color: #fff;
+}
+
+.card2:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.card2 img {
+  width: 100%;
+  max-width: 250px;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.card2.dark img {
+  filter: brightness(0.8); /* Cambiar el brillo de la imagen en modo oscuro */
+}
+
+.card2:hover img {
+  transform: scale(1.05);
+}
+
+.fecha {
+  color: #888;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.price {
+  font-weight: bold;
+  color: #007bff;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.buttons {
+  margin-top: 20px;
+}
+
+.buttons button {
+  margin: 0 10px;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.buttons button.btn-outline-warning {
+  background-color: #ffc107;
+  border-color: #ffc107;
+  color: #212529;
+}
+
+.buttons button.btn-outline-warning:hover {
+  background-color: #ffca28;
+  border-color: #ffca28;
+}
+
+.buttons button.btn-outline-info {
+  background-color: #17a2b8;
+  border-color: #17a2b8;
+  color: #fff;
+}
+
+.buttons button.btn-outline-info:hover {
+  background-color: #138496;
+  border-color: #138496;
+}
+
+.buttons button.dark {
+  background-color: #666;
+  border-color: #666;
+  color: #fff;
+}
+
+.buttons button.dark:hover {
+  background-color: #888;
+  border-color: #888;
+}
+
+.caracteristicas {
+  text-align: center;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.caracteristicas p {
+  margin: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
